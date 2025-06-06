@@ -60,6 +60,5 @@ Prepared by **Upasana Purohit**, aspiring PhD candidate in Bioinformatics.
 Passionate about applying computational methods to uncover hidden patterns in cancer biology.
 
 
-- 📧 your.email@example.com
 
 > ⚠️ *This project is part of an independent learning journey and is inspired by Boolean lab principles from Dr. Debashis Sahoo.*
